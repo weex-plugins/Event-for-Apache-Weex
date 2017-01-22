@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "platform": [
+        "ios"
+    ],
+    "description": "weex event module",
+    "keywords": [
+        "weex",
+        "event"
+    ],
+    "license": "Apache 2.0",
+    "name": "weex-plugin-weex-event"
+}
